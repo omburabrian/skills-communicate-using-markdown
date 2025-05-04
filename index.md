@@ -7,3 +7,8 @@ A new index.md file created for learning GitHub concepts
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Learn new concepts
+- [ ] Master Github
