@@ -1,6 +1,6 @@
-# <h3>New File </h3>
+### New File 
 GitHub sample files
-# <h4> index.md </h4>
+#### index.md 
 A new index.md file created for learning GitHub concepts
-# <h5>Adding an Image</h5>
-# <img src="https://octodex.github.com/images/yaktocat.png">
+#### Adding an Image
+![Yaktocat](https://octodex.github.com/images/yaktocat.png)
